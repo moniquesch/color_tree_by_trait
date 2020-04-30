@@ -1,0 +1,742 @@
+(
+(
+(
+(
+(
+229_Tetraponera_attenuata:0.47317,
+237_Tetraponera_punctulata:0.5064)
+Branch 81:0.16133,
+(
+(
+228_Tetraponera_ambigua:0.50568,
+(
+234_Tetraponera_merita:0,
+(
+231_Tetraponera_grandidieri:0,
+232_Tetraponera_hespera:0)
+Branch 11:0)
+Branch 12:0.46558)
+Branch 86:0.045254,
+(
+227_Tetraponera_allaborans:0.58673,
+(
+235_Tetraponera_morondaviensis:0.30178,
+(
+239_Tetraponera_sahlbergii:0,
+(
+230_Tetraponera_fictrix:0,
+233_Tetraponera_longula:0)
+Branch 13:0)
+Branch 14:0.24819)
+Branch 65:0.23889)
+Branch 89:0.015205)
+Branch 93:0.08244)
+Branch 109:0.064857,
+(
+(
+238_Tetraponera_rufonigra:0,
+(
+226_Tetraponera_aethiops:0,
+236_Tetraponera_pilosa:0)
+Branch 2:0)
+Branch 3:0.70273,
+(
+(
+153_Pseudomyrmex_boopis:0,
+182_Pseudomyrmex_termitarius:0)
+Branch 10:0.51783,
+(
+(
+171_Pseudomyrmex_pallidus:0.6772,
+180_Pseudomyrmex_simplex:0.52667)
+Branch 72:0.045895,
+(
+(
+154_Pseudomyrmex_concolor:0,
+173_Pseudomyrmex_penetrator:0)
+Branch 5:0.49986,
+(
+(
+155_Pseudomyrmex_cubaensis:0,
+157_Pseudomyrmex_elongatus:0)
+Branch 9:0.39603,
+(
+(
+(
+(
+167_Pseudomyrmex_mordax:0,
+170_Pseudomyrmex_oculatus:0)
+Branch 33:0,
+(
+176_Pseudomyrmex_salvini:0,
+178_Pseudomyrmex_schuppi:0)
+Branch 34:0)
+Branch 37:0,
+(
+(
+183_Pseudomyrmex_triplaridis:0,
+184_Pseudomyrmex_triplarinus:0)
+Branch 35:0,
+(
+186_Pseudomyrmex_viduus:0,
+(
+152_Pseudomyrmex_apache:0,
+156_Pseudomyrmex_dendroicus:0)
+Branch 32:0)
+Branch 36:0)
+Branch 38:0)
+Branch 39:0.30737,
+(
+(
+(
+(
+179_Pseudomyrmex_sericeus:0,
+181_Pseudomyrmex_spinicola:0)
+Branch 25:0,
+(
+(
+158_Pseudomyrmex_ferrugineus:0,
+159_Pseudomyrmex_flavicornis:0)
+Branch 19:0,
+(
+161_Pseudomyrmex_godmani:0,
+163_Pseudomyrmex_haytianus:0)
+Branch 20:0)
+Branch 26:0)
+Branch 29:0,
+(
+(
+(
+164_Pseudomyrmex_janzeni:0,
+165_Pseudomyrmex_major:0)
+Branch 21:0,
+(
+168_Pseudomyrmex_nigrocinctus:0,
+169_Pseudomyrmex_nigropilosus:0)
+Branch 22:0)
+Branch 27:0,
+(
+(
+172_Pseudomyrmex_particeps:0,
+174_Pseudomyrmex_peperi:0)
+Branch 23:0,
+(
+175_Pseudomyrmex_perboscii:0,
+177_Pseudomyrmex_satanicus:0)
+Branch 24:0)
+Branch 28:0)
+Branch 30:0)
+Branch 31:0.28172,
+(
+185_Pseudomyrmex_veneficus:0.36174,
+(
+160_Pseudomyrmex_gebellii:0,
+166_Pseudomyrmex_mixtecus:0)
+Branch 4:0.33804)
+Branch 46:0.034691)
+Branch 47:0.058872)
+Branch 68:0.033263)
+Branch 69:0.07053)
+Branch 76:0.02296)
+Branch 80:0.057453)
+Branch 87:0.16277)
+Branch 120:0.019852)
+Branch 126:0.23247,
+(
+(
+112_Nothomyrmecia_macrops:0.73914,
+(
+81_Myrmecia_pilosula:0.56824,
+82_Myrmecia_pyriformis:0.61574)
+Branch 102:0.12097)
+Branch 132:0.16131,
+(
+4_Aneuretus_simoni:0.94661,
+(
+(
+66_Leptomyrmex_erythrocephalus:0.81731,
+69_Liometopum_occidentale:0.70294)
+Branch 137:0.10619,
+(
+19_Azteca_ovaticeps:0.70762,
+(
+220_Tapinoma_sessile:0.87429,
+(
+68_Linepithema_keiteli:0.65412,
+122_Papyrius_nitidus:0.6004)
+Branch 125:0.063136)
+Branch 139:0.01027)
+Branch 141:0.087911)
+Branch 174:0.037953)
+Branch 191:0.0034937)
+Branch 192:0.037285)
+Branch 203:0.040134,
+(
+(
+132_Platythyrea_mocquerysi:0.78078,
+133_Platythyrea_punctata:0.8169)
+Branch 130:0.27637,
+(
+(
+(
+(
+124_Paraparatrechina_oceanica:0.7924,
+(
+(
+(
+3_Acropyga_acutiventris:0.73804,
+(
+63_Lepisiota_canescens:0.49579,
+131_Plagiolepis_alluaudi:0.63316)
+Branch 138:0.10653)
+Branch 180:0.09715,
+(
+(
+6_Anoplolepis_custodiens:0.5525,
+7_Anoplolepis_gracilipes:0.69659)
+Branch 136:0.19709,
+(
+(
+(
+59_Lasius_alienus:0.55967,
+61_Lasius_niger:0.9956)
+Branch 105:0.2307,
+(
+(
+60_Lasius_californicus:0,
+62_Lasius_subumbratus:0)
+Branch 40:0.54429,
+(
+86_Myrmecocystus_flaviceps:0.49492,
+(
+(
+100_Myrmecocystus_wheeleri:0.41936,
+(
+(
+91_Myrmecocystus_mendax:0.4558,
+(
+(
+88_Myrmecocystus_kennedyi:0.30191,
+(
+95_Myrmecocystus_placodops:0.27404,
+(
+92_Myrmecocystus_mexicanus:0,
+98_Myrmecocystus_tenuinodis:0)
+Branch 18:0.24125)
+Branch 70:0.043525)
+Branch 73:0.030379,
+(
+84_Myrmecocystus_creightoni:0.27664,
+(
+85_Myrmecocystus_depilis:0.33142,
+(
+97_Myrmecocystus_semirufus:0,
+99_Myrmecocystus_testaceus:0)
+Branch 15:0.30053)
+Branch 71:0.022717)
+Branch 74:0.02775)
+Branch 77:0.018272)
+Branch 79:0.046877,
+(
+96_Myrmecocystus_romainei:0.36791,
+(
+94_Myrmecocystus_nequazcatl:0.32905,
+101_Myrmecocystus_yuma:0.46944)
+Branch 78:0.02958)
+Branch 82:0.032665)
+Branch 85:0.048113)
+Branch 94:0.086393,
+(
+93_Myrmecocystus_navajo:0.41741,
+(
+87_Myrmecocystus_kathjuli:0.49503,
+(
+89_Myrmecocystus_koso:0.40413,
+90_Myrmecocystus_lugubris:0.44566)
+Branch 90:0.037626)
+Branch 98:0.013535)
+Branch 100:0.046646)
+Branch 108:0.048195)
+Branch 121:0.033918)
+Branch 131:0.15112)
+Branch 183:0.064455,
+(
+(
+(
+114_Nylanderia_dodo:0.71624,
+115_Nylanderia_hystrix:0.66987)
+Branch 169:0.041192,
+(
+(
+145_Prenolepis_imparis:0.67076,
+248_Zatania_albimaculata:0.47592)
+Branch 154:0.055808,
+(
+125_Paratrechina_longicornis:0.7275,
+(
+123_Paraparatrechina_glabra:0.65296,
+(
+48_Euprenolepis_procera:0,
+151_Pseudolasius_australis:0)
+Branch 43:0.50473)
+Branch 162:0.025253)
+Branch 170:0.020384)
+Branch 182:0.019352)
+Branch 188:0.044053,
+(
+22_Brachymyrmex_depilis:0.70727,
+113_Notostigma_carazzii:0.70453)
+Branch 190:0.039491)
+Branch 210:0.0060805)
+Branch 211:0.014015)
+Branch 215:0.010351)
+Branch 217:0.022491,
+(
+(
+33_Colobopsis_saundersi:0.85002,
+(
+29_Cataglyphis_cursor:0.70087,
+(
+55_Iberoformica_subrufa:0.6399,
+(
+52_Formica_neogagates:0.39371,
+(
+188_Rossomyrmex_anatolicus:0,
+(
+143_Polyergus_breviceps:0,
+150_Proformica_mongolica:0)
+Branch 66:0)
+Branch 67:0.3389)
+Branch 135:0.090609)
+Branch 167:0.044066)
+Branch 187:0.042286)
+Branch 209:0.042597,
+(
+(
+118_Oecophylla_longinoda:0.48287,
+119_Oecophylla_smaragdina:0.79954)
+Branch 153:0.1508,
+(
+24_Camponotus_claviscapus:0.69385,
+(
+26_Camponotus_hyatti:0.55229,
+(
+25_Camponotus_gibbinotus:0.48431,
+45_Echinopla_australis:0.40543)
+Branch 134:0.042119)
+Branch 142:0.057137)
+Branch 163:0.12442)
+Branch 216:0.014818)
+Branch 218:0.0095569)
+Branch 219:0.0022753)
+Branch 220:0.041019,
+(
+1_Acanthognathus_ocellatus:0.77376,
+(
+(
+219_Tapinoma_melanocephalum:0.88082,
+221_Technomyrmex_difficilis:0.71877)
+Branch 179:0.048235,
+(
+(
+(
+41_Dolichoderus_debilis:0.58314,
+42_Dolichoderus_decollatus:0.5388)
+Branch 143:0.074397,
+(
+129_Philidris_cordata:0.68912,
+(
+18_Azteca_instabilis:0.52338,
+(
+56_Iridomyrmex_pallidus:0.36983,
+57_Iridomyrmex_sanguineus:0.39886)
+Branch 103:0.10134)
+Branch 133:0.093373)
+Branch 161:0.034813)
+Branch 175:0.029324,
+(
+44_Dorymyrmex_bicolor:0.73696,
+(
+50_Forelius_chalybaeus:0.49167,
+51_Forelius_pruinosus:0.44913)
+Branch 115:0.18078)
+Branch 176:0.026513)
+Branch 185:0.029775)
+Branch 197:0.077199)
+Branch 223:0.025195)
+Branch 237:0.029384,
+(
+(
+130_Pilotrochus_besmerus:0.50633,
+(
+71_Melissotarsus_insularis:0.87008,
+(
+216_Strumigenys_ambatrix:0.51318,
+(
+217_Strumigenys_dicomas:0,
+218_Strumigenys_erynnes:0)
+Branch 8:0.49639)
+Branch 114:0.20033)
+Branch 194:0.01676)
+Branch 199:0.11642,
+(
+(
+(
+(
+(
+162_Pseudomyrmex_gracilis:1.3799,
+(
+67_Linepithema_humile:1.1519,
+(
+243_Trachymyrmex_septentrionalis:1.1004,
+(
+121_Ooceraea_biroi:1.4572,
+245_Vollenhovia_emeryi:1.4858)
+Branch 104:0.036747)
+Branch 111:0.018967)
+Branch 116:0.033826)
+Branch 124:0.19412,
+(
+246_Wasmannia_auropunctata:0.83376,
+(
+39_Cyphomyrmex_costatus:0.65622,
+(
+(
+15_Atta_cephalotes:0,
+242_Trachymyrmex_cornetzi:0)
+Branch 1:0.47018,
+(
+2_Acromyrmex_echinatior:0.50594,
+16_Atta_colombica:0.4975)
+Branch 45:0.23469)
+Branch 96:0.11221)
+Branch 119:0.10685)
+Branch 151:0.06494)
+Branch 193:0.097236,
+(
+(
+78_Mycocepurus_goeldii:0.79276,
+241_Trachymyrmex_arizonensis:0.61325)
+Branch 184:0.052092,
+(
+14_Apterostigma_auriculatum:0.77149,
+17_Atta_texana:0.75158)
+Branch 196:0.028288)
+Branch 204:0.06221)
+Branch 232:0.022666,
+(
+(
+147_Proatta_butteli:0.81469,
+(
+20_Basiceros_manni:0.58588,
+(
+28_Carebara_affinis:0.40557,
+223_Tetramorium_caespitum:0.5988)
+Branch 159:0.07073)
+Branch 202:0.051305)
+Branch 225:0.032877,
+(
+(
+127_Pheidole_hyatti:0.61591,
+(
+126_Pheidole_clydei:0,
+128_Pheidole_longispinosa:0)
+Branch 41:0.46726)
+Branch 140:0.18404,
+(
+49_Eutetramorium_mocquerysi:0.78925,
+(
+149_Procryptocerus_scabriusculus:0.63649,
+(
+30_Cephalotes_atratus:0.53406,
+31_Cephalotes_texanus:0.52668)
+Branch 110:0.22977)
+Branch 201:0.062495)
+Branch 228:0.016536)
+Branch 231:0.016314)
+Branch 233:0.020105)
+Branch 235:0.028645,
+(
+(
+(
+54_Hylomyrma_dentiloba:0.83005,
+(
+142_Pogonomyrmex_subdentatus:0.66007,
+(
+(
+138_Pogonomyrmex_imberbiculus:0.30765,
+141_Pogonomyrmex_pima:0.2743)
+Branch 75:0.20979,
+(
+137_Pogonomyrmex_huachucanus:0.52489,
+(
+140_Pogonomyrmex_occidentalis:0.44848,
+(
+139_Pogonomyrmex_maricopa:0,
+(
+135_Pogonomyrmex_badius:0,
+136_Pogonomyrmex_desertorum:0)
+Branch 16:0)
+Branch 17:0.3296)
+Branch 88:0.10826)
+Branch 113:0.032193)
+Branch 122:0.084043)
+Branch 145:0.11962)
+Branch 206:0.078748,
+(
+(
+(
+34_Crematogaster_auberti:0.56642,
+37_Crematogaster_scutellaris:0.49378)
+Branch 99:0.10525,
+(
+35_Crematogaster_kelleri:0.5071,
+36_Crematogaster_modiglianii:0.49368)
+Branch 118:0.015865)
+Branch 123:0.24181,
+(
+(
+224_Tetramorium_caldarium:0.50321,
+225_Tetramorium_impurum:0.5031)
+Branch 95:0.35264,
+(
+(
+(
+11_Aphaenogaster_senilis:0.58046,
+105_Myrmica_ruginodis:0.68966)
+Branch 106:0.16327,
+(
+(
+103_Myrmica_incompleta:0.65679,
+(
+104_Myrmica_kotokui:0,
+106_Myrmica_rugiventris:0)
+Branch 6:0.53125)
+Branch 128:0.079694,
+(
+102_Myrmica_americana:0.92835,
+(
+107_Myrmica_striolagaster:0,
+108_Myrmica_tahoensis:0)
+Branch 7:0.59387)
+Branch 129:0.077274)
+Branch 146:0.016747)
+Branch 150:0.13014,
+(
+27_Cardiocondyla_mauritanica:0.72503,
+(
+53_Huberia_brounii:0.60626,
+(
+70_Manica_rubida:0.62296,
+83_Myrmecina_graminicola:0.65189)
+Branch 171:0.026945)
+Branch 200:0.01919)
+Branch 205:0.023771)
+Branch 226:0.004086)
+Branch 227:0.014688)
+Branch 230:0.02857)
+Branch 234:0.020707,
+(
+(
+(
+(
+244_Veromessor_andrei:0.53147,
+(
+(
+(
+(
+(
+194_Stenamma_debile:0,
+200_Stenamma_gurkhale:0)
+Branch 48:0,
+(
+204_Stenamma_kashmirense:0,
+206_Stenamma_nipponense:0)
+Branch 49:0)
+Branch 52:0,
+(
+(
+208_Stenamma_sardoum:0,
+210_Stenamma_schmittii:0)
+Branch 50:0,
+(
+213_Stenamma_snellingi:0,
+214_Stenamma_wheelerorum:0)
+Branch 51:0)
+Branch 53:0)
+Branch 54:0.33601,
+(
+(
+(
+201_Stenamma_heathi:0,
+203_Stenamma_impar:0)
+Branch 58:0,
+(
+207_Stenamma_punctatoventre:0,
+211_Stenamma_sequoiarum:0)
+Branch 59:0)
+Branch 62:0,
+(
+(
+212_Stenamma_smithi:0,
+(
+192_Stenamma_californicum:0,
+193_Stenamma_chiricahua:0)
+Branch 55:0)
+Branch 60:0,
+(
+(
+195_Stenamma_diecki:0,
+197_Stenamma_dyscheres:0)
+Branch 56:0,
+(
+198_Stenamma_exasperatum:0,
+199_Stenamma_foveolocephalum:0)
+Branch 57:0)
+Branch 61:0)
+Branch 63:0)
+Branch 64:0.32519)
+Branch 97:0.10439,
+(
+209_Stenamma_schmidti:0.48771,
+(
+196_Stenamma_diversum:0.34949,
+(
+205_Stenamma_manni:0.3317,
+(
+191_Stenamma_alas:0,
+202_Stenamma_huachucanum:0)
+Branch 44:0.30025)
+Branch 83:0.061046)
+Branch 91:0.079687)
+Branch 107:0.0446)
+Branch 117:0.10474)
+Branch 147:0.071619,
+(
+12_Aphaenogaster_swammerdami:0.72209,
+(
+222_Temnothorax_rugatulus:0.77105,
+(
+9_Aphaenogaster_occidentalis:0.40981,
+74_Messor_denticornis:0.36466)
+Branch 92:0.23346)
+Branch 149:0.023908)
+Branch 158:0.031427)
+Branch 173:0.093388,
+(
+8_Aphaenogaster_araneoides:0.81035,
+10_Aphaenogaster_rudis:0.62289)
+Branch 195:0.060304)
+Branch 224:0.047481,
+(
+(
+189_Solenopsis_molesta:0.76595,
+190_Solenopsis_xyloni:0.71493)
+Branch 157:0.12722,
+(
+(
+75_Monomorium_exiguum:0,
+77_Monomorium_madecassum:0)
+Branch 42:0.61386,
+(
+76_Monomorium_hanneli:0.45456,
+247_Xenomyrmex_floridanus:0.5374)
+Branch 160:0.094041)
+Branch 208:0.037576)
+Branch 229:0.027419)
+Branch 236:0.012969)
+Branch 238:0.011597)
+Branch 239:0.013673)
+Branch 240:0.013551)
+Branch 244:0.014287,
+(
+(
+13_Apomyrma_stygia:0.87628,
+(
+(
+32_Chrysapace_sauteri:0.80166,
+(
+64_Leptanilloides_gracilis:0.71176,
+65_Leptanilloides_nubecula:0.82152)
+Branch 186:0.042708)
+Branch 207:0.035915,
+(
+43_Dorylus_laevigatus:1.1801,
+(
+46_Eciton_vagans:0.51062,
+58_Labidus_praedator:0.47177)
+Branch 84:0.37773)
+Branch 214:0.024885)
+Branch 221:0.041366)
+Branch 241:0.018883,
+(
+120_Onychomyrmex_hedleyi:0.77986,
+(
+(
+134_Plectroctena_ugandensis:0.8295,
+(
+116_Odontomachus_coquereli:0.96484,
+(
+5_Anochetus_madagascarensis:0.66848,
+117_Odontoponera_transversa:0.65026)
+Branch 144:0.038686)
+Branch 155:0.12124)
+Branch 212:0.032588,
+(
+(
+(
+(
+38_Cryptopone_gilva:0.74057,
+144_Ponera_swezeyi:0.83734)
+Branch 164:0.035929,
+(
+187_Pseudoponera_stigma:0.71605,
+(
+40_Diacamma_pallidum:0.77422,
+(
+(
+21_Bothroponera_wasmannii:0.64257,
+(
+72_Mesoponera_ambigua:0.59068,
+(
+73_Mesoponera_melanaria:0.59461,
+(
+23_Brachyponera_obscurans:0.4667,
+47_Euponera_brunoi:0.43146)
+Branch 112:0.040276)
+Branch 127:0.079642)
+Branch 148:0.017111)
+Branch 152:0.042152,
+(
+79_Myopias_tenuis:0.74428,
+215_Streblognathus_peetersi:0.77792)
+Branch 156:0.027316)
+Branch 166:0.011331)
+Branch 168:0.0082217)
+Branch 172:0.010031)
+Branch 177:0.029942,
+(
+111_Neoponera_unidentata:0.71042,
+240_Thaumatomyrmex_atrox:0.71657)
+Branch 178:0.024994)
+Branch 189:0.057282,
+(
+146_Prionopelta_amabilis:0.76646,
+(
+148_Proceratium_avium:0.71841,
+(
+80_Myopopone_castanea:0.63416,
+(
+109_Mystrium_camillae:0.52833,
+110_Mystrium_mysticum:0.49646)
+Branch 101:0.21342)
+Branch 165:0.039976)
+Branch 181:0.033069)
+Branch 198:0.038937)
+Branch 213:0.037315)
+Branch 222:0.016065)
+Branch 242:0.018881)
+Branch 245:0.0088178)
+Branch 246:0.014987)
+Branch 243:0.045562)
+Root;
